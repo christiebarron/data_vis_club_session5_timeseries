@@ -1,5 +1,5 @@
-# data_vis_club_session5_timeseries
-Documents regarding the Data Visualization Club I am co-chairing. 
+# Data Vis Club Session 5: Visualizing Time
+This github repository contains documents regarding the Data Visualization Club Session 5 I am co-chairing. 
 
 ## Instructions 
 ### Data
