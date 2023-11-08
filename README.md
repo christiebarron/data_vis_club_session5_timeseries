@@ -6,7 +6,7 @@ This github repository contains documents regarding the Data Visualization Club 
 We'll be using [Wikipedia Website Traffic Data](https://www.kaggle.com/code/muonneutrino/wikipedia-traffic-data-exploration/input) available on Kaggle.
 
 - `clean_data.zip` is a compressed folder with the cleaned datasets we will be using. 
-- `data_wrangling.zip` is a compressed folder with the jupyter notebook used for data cleaning. Note the raw data used is NOT in this github repository. It is the `train_1.csv` file from the 
+- `data_wrangling.zip` is a compressed folder with the jupyter notebook used for data cleaning. Note the raw data used is NOT in this github repository. It is the `train_1.csv` file from the Kaggle competition.
 
 Within the clean_data folder, see the `data_codebook.xlsx` for descriptions of the data. We developed several cleaned versions of the data. The most useful is the long format dataset `pg_views-and-rank_long_1category.csv`. If you prefer wide format data, you can use `pg_views_wide_1category.csv` instead. For an extra challenge, use the `pg_views_long_3category.csv` document.
 
